@@ -1,0 +1,21 @@
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.*
+
+# Application data
+db.sqlite
+db.sqlite-shm
+db.sqlite-wal
+
+# Dependencies and builds
+node_modules/
+dist/
+*.log
