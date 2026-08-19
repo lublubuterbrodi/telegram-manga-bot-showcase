@@ -305,8 +305,6 @@ src/
 ## Screenshots
 
 <p align="center">
-  <img src="./screenshots/manga-catalog.png" alt="Daily Manga Catalog" width="180"/>
-  <img src="./screenshots/bot-catalog.png" alt="Title Selection" width="180"/>
   <img src="./screenshots/profile.png" alt="Reader Profile" width="180"/>
   <img src="./screenshots/achievements.png" alt="Reader Achievements" width="180"/>
   <img src="./screenshots/support.png" alt="Support" width="180"/>
